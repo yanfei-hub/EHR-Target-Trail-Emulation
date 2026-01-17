@@ -32,16 +32,6 @@ Most EHR studies discover these problems *after* publishing. This toolkit helps 
 
 ---
 
-## 💡 Why This Exists
-
-Traditional causal inference packages give you **methods**. This toolkit gives you **diagnostic checkpoints** that tell you whether those methods will work on *your* data.
-
-### The Philosophy
-
-> **Bias diagnostics come first. Effect estimation comes second.**
-
-If your study violates positivity, has 40% informative censoring, or suffers from severe immortal time bias, no amount of sophisticated modeling will save you. You need to know this *before* you publish.
-
 ### Who This Is For
 
 - 📊 **Researchers** using EHR data for causal inference
