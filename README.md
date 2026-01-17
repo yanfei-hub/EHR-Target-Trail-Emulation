@@ -261,43 +261,12 @@ Use this table **before estimating any treatment effect**:
 
 ---
 
-## 📖 What This Toolkit Is (And Isn't)
 
-### ✅ This Toolkit Is:
-
-- A **diagnostic workflow** for EHR-based target trial emulation
-- A **teaching resource** for causal inference with messy data  
-- A **template for transparent reporting** of limitations
-- A **practical bridge** from protocol to analysis decisions
-
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Areas where we'd love help:
-
-- 🔧 **Additional diagnostics:** Measurement error, outcome misclassification
-- 📊 **Real data examples:** De-identified case studies
-- 🌍 **International EHR contexts:** Non-US healthcare systems
-- 📝 **Documentation:** Improved explanations and examples
-- 🐛 **Bug reports:** Issues with notebooks or code
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
----
-
-## 📚 Further Reading
-
-### Papers on Target Trial Emulation
+## 📚 Reference
 - Hernán & Robins (2016). "Using Big Data to Emulate a Target Trial..."
 - Hernán et al. (2022). "Target Trial Emulation: A Framework for Causal Inference from Observational Data"
-
-### EHR-Specific Biases
 - Groenwold et al. (2021). "Informative Missingness in Electronic Health Record Systems"
 - Digitale et al. (2023). "Tutorial on Directed Acyclic Graphs" 
-
-### Our Philosophy
 - Lash et al. (2020). *Modern Epidemiology* 4th ed., Chapter on Bias Analysis
 - Pearl (2009). *Causality*, Chapter on Identifiability
 
@@ -328,7 +297,6 @@ If this toolkit helps your research, please cite:
 
 - 📫 **Issues:** [GitHub Issues](https://github.com/yourusername/ehr-target-trial-diagnostics/issues)
 - 💡 **Discussions:** [GitHub Discussions](https://github.com/yourusername/ehr-target-trial-diagnostics/discussions)
-- 📧 **Email:** your.email@institution.edu
 
 ---
 
