@@ -274,9 +274,9 @@ If this toolkit helps your research, please cite:
 
 ```bibtex
 @software{ehr_tte_diagnostics2025,
-  author = {Wang, Yanfei},
-  title = {EHR Target Trial Emulation: Bias Diagnostics Toolkit},
-  year = {2025},
+  author = {Yanfei Wang, Yongqiu Li, Tuo Lin, Yi Guo},
+  title = {An Operational Target Trial Emulation Framework for Causal Inference Using Electronic Health Record Data},
+  year = {2026},
   url = {https://github.com/yourusername/ehr-target-trial-diagnostics}
 }
 ```
