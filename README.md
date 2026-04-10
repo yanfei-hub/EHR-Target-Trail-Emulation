@@ -270,25 +270,18 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 🌟 Citation
 
-If this toolkit helps your research, please cite:
+If this repository helps your research, please cite the following paper:
 
 ```bibtex
-@software{ehr_tte_diagnostics2025,
-  author = {Yanfei Wang, Yongqiu Li, Tuo Lin, Yi Guo},
-  title = {An Operational Target Trial Emulation Framework for Causal Inference Using Electronic Health Record Data},
-  year = {2026},
-  url = {https://github.com/yourusername/ehr-target-trial-diagnostics}
+@article{wang2026operational,
+  author  = {Wang, Yanfei and Li, Yongqiu and Lin, Tuo and Guo, Yi},
+  title   = {An operational target trial emulation framework for causal inference using electronic health record data},
+  journal = {npj Digital Medicine},
+  year    = {2026}
 }
-```
 
 ---
 
-## 💬 Support
-
-- 📫 **Issues:** [GitHub Issues](https://github.com/yourusername/ehr-target-trial-diagnostics/issues)
-- 💡 **Discussions:** [GitHub Discussions](https://github.com/yourusername/ehr-target-trial-diagnostics/discussions)
-
----
 
 <div align="center">
 
